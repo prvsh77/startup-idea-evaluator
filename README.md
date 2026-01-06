@@ -1,17 +1,15 @@
-# 🧪 Startup Idea Evaluator 🚀  
+🧪 Startup Idea Evaluator 🚀  
 **AI + Voting Mobile App (Flutter)**
 
-## Overview
+Overview
 Startup Idea Evaluator is a Flutter-based mobile application that allows users to submit startup ideas, receive fun AI-generated feedback, vote on ideas, and view a live leaderboard.  
 The app simulates an AI-powered evaluation workflow while focusing on clean UX, state management, persistence, and animations.
 
 This project was built as part of a **Mobile App Internship Assignment** to demonstrate end-to-end mobile development skills.
 
----
+✨ Features
 
-## ✨ Features
-
-### Core Features
+Core Features
 - 📥 Submit startup ideas (name, tagline, description)
 - 🤖 Fake AI-generated rating (0–100)
 - 🧠 AI-style reasoning text explaining the rating
@@ -19,7 +17,7 @@ This project was built as part of a **Mobile App Internship Assignment** to demo
 - 🏆 Leaderboard showing top ideas
 - 🔄 Sorting by votes and ranking
 
-### Advanced UX & Engineering
+Advanced UX & Engineering
 - 🌗 Dark mode with persisted preference
 - 📱 Swipe-to-vote gestures (dismissible cards)
 - 🎯 Hero animations (list → detail screen)
@@ -31,7 +29,7 @@ This project was built as part of a **Mobile App Internship Assignment** to demo
 
 ---
 
-## 🧱 Tech Stack
+🧱 Tech Stack
 
 - **Framework:** Flutter (Material 3)
 - **State Management:** Provider
@@ -42,7 +40,7 @@ This project was built as part of a **Mobile App Internship Assignment** to demo
 
 ---
 
-## 🧠 AI Evaluation (Mocked)
+🧠 AI Evaluation (Mocked)
 
 The app uses a mock REST service that simulates an AI call:
 - Adds network delay
@@ -53,7 +51,7 @@ This design allows seamless replacement with a real OpenAI API later without cha
 
 ---
 
-## 🧪 Testing
+🧪 Testing
 
 Basic unit tests are included to verify:
 - Idea creation
@@ -63,8 +61,7 @@ Basic unit tests are included to verify:
 Tests are written using `flutter_test` to validate provider and model behavior.
 
 ---
-
-## 💻 Source Code
+💻 Source Code
 
 **FlutLab Project:**  
 👉 _[https://flutlab.io/sandbox/9429bf10-77e0-40b0-a182-adfca758e059]_
