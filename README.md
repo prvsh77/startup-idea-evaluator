@@ -1,4 +1,4 @@
-🧪 Startup Idea Evaluator 🚀  
+##🧪 Startup Idea Evaluator 🚀  
 **AI + Voting Mobile App (Flutter)**
 
 Overview
